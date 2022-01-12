@@ -1,0 +1,98 @@
+.top{
+    font-size: 6px;
+    font-weight: bold;
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-bottom: 10px
+}
+.pos{
+    font-size: 8px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.myhead{
+    color: grey;
+    font-size: 7px;
+    margin-left: 50px;
+}
+.container{
+    
+    display: flex;
+    flex-flow: column;
+    
+}
+.container form{
+    width: 100%;
+    padding: 20px;
+    
+   
+    
+}
+.container form .inputBox{
+    margin-top: 10px;
+    margin-left: 25px;
+    border-top: 5px;
+    font-size: 7px;
+    
+    
+}
+.container form .inputBox span{
+    display: block;
+    color: rgba(128, 128, 128, 0.993);
+    
+    
+
+}
+.container form .flexbox{
+    display: flex;
+    
+    
+}
+.container form .flexbox .inputBox{
+     flex:1 1 100px; 
+    gap: 5px;
+    width: 5px;
+    padding: 1px 1px;
+    
+    
+}
+/* .submit-btn{
+   background-color: #000000b5;
+   color: white;
+   margin-top: 15px;
+   margin-left: 25px;
+} */
+.mybtn{
+    border: none;
+    background-color: #000000cf;
+    color: white;
+    margin-top: 11px;
+    margin-left: 46px;
+    font-size: xx-small;
+    width: 50px;
+    box-shadow: 2px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
